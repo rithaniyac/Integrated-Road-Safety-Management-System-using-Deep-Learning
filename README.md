@@ -29,7 +29,3 @@ The project provides an end-to-end framework for detecting multiple traffic viol
 - Automated Traffic Law Enforcement
 - Urban Road Safety Monitoring
 
----
-
-**Developed by:** Rithaniya C, Swathi Jenitha E, and Princy C  
-**Institution:** VIT Vellore
