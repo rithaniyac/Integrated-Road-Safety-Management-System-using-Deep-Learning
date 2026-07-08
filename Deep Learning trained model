@@ -1,0 +1,13 @@
+## Deep Learning Model Training
+
+The detection models were trained using the **YOLOv12** architecture on a custom dataset comprising traffic scenes with annotated vehicles, riders, helmets, and license plates. Images were preprocessed and augmented to improve model robustness under varying lighting conditions, viewpoints, and occlusions.
+
+During training, the model optimized object localization and classification using advanced feature extraction and multi-scale detection strategies. Performance was evaluated using standard metrics such as **Precision**, **Recall**, **mAP (Mean Average Precision)**, and **Confusion Matrix** analysis to ensure reliable real-time inference.
+
+The trained models were integrated into the traffic monitoring pipeline for:
+- Helmet detection
+- Vehicle detection and classification
+- License plate localization
+- Real-time traffic violation detection
+
+The optimized model achieves high detection accuracy while maintaining low inference latency, making it suitable for real-time road surveillance applications.
